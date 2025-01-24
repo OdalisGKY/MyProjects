@@ -1,1 +1,1 @@
-This is my Hello HTML assignment for WK2.
+This is my Hello HTML assignment for Week2 assignment.
