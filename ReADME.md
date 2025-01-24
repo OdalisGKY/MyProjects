@@ -1,1 +1,1 @@
-This is my readme.md file for assignment in WK2.
+Python Assignment
